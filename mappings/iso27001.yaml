@@ -1,0 +1,59 @@
+iam.mfa:
+  id: "A.9.4"
+  title: Secure log-on
+
+iam.root:
+  id: "A.9.2"
+  title: Privileged access
+
+iam.password:
+  id: "A.9.4"
+  title: Password management
+
+cloudtrail.on:
+  id: "A.12.4"
+  title: Event logging
+
+cloudtrail.multi:
+  id: "A.12.4"
+  title: Event logging
+
+cloudtrail.validate:
+  id: "A.12.4"
+  title: Log protection
+
+cloudtrail.logging:
+  id: "A.12.4"
+  title: Event logging
+
+s3.public:
+  id: "A.13.2"
+  title: Data transfer
+
+s3.version:
+  id: "A.12.3"
+  title: Backups
+
+s3.encrypt:
+  id: "A.10.1"
+  title: Encryption
+
+sg.ssh:
+  id: "A.13.1"
+  title: Network controls
+
+sg.rdp:
+  id: "A.13.1"
+  title: Network controls
+
+sg.all:
+  id: "A.13.1"
+  title: Network controls
+
+config.on:
+  id: "A.12.6"
+  title: Vulnerability mgmt
+
+config.recording:
+  id: "A.12.6"
+  title: Vulnerability mgmt

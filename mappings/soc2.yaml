@@ -1,0 +1,59 @@
+iam.mfa:
+  id: "CC6.1"
+  title: Access controls
+
+iam.root:
+  id: "CC6.2"
+  title: Credentials
+
+iam.password:
+  id: "CC6.1"
+  title: Access controls
+
+cloudtrail.on:
+  id: "CC7.2"
+  title: Monitoring
+
+cloudtrail.multi:
+  id: "CC7.2"
+  title: Monitoring
+
+cloudtrail.validate:
+  id: "CC7.3"
+  title: Security events
+
+cloudtrail.logging:
+  id: "CC7.2"
+  title: Monitoring
+
+s3.public:
+  id: "CC6.7"
+  title: Data transfer
+
+s3.version:
+  id: "A1.2"
+  title: Backups
+
+s3.encrypt:
+  id: "CC6.1"
+  title: Access controls
+
+sg.ssh:
+  id: "CC6.6"
+  title: External threats
+
+sg.rdp:
+  id: "CC6.6"
+  title: External threats
+
+sg.all:
+  id: "CC6.6"
+  title: External threats
+
+config.on:
+  id: "CC7.1"
+  title: Config changes
+
+config.recording:
+  id: "CC7.1"
+  title: Config changes
